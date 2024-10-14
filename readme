@@ -1,0 +1,9 @@
+my-terraform-s3/
+│
+├── main.tf          # Main Terraform configuration file (for resources)
+├── provider.tf      # Provider configuration (AWS)
+├── variables.tf     # Variable definitions (AWS credentials)
+├── terraform.tfvars # Actual values for variables (credentials)
+└── outputs.tf       # Output configuration (optional)
+
+

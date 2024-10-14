@@ -1,0 +1,39 @@
+terraform.tfvars
+./terraform.tfvars
+s3firstassign\terraform.tfvars
+
+s3firstassign/terraform.tfvars
+s3firstassign/terraform.tfstate
+s3firstassign/terraform.tfstate.tfvars
+
+.terraform
+
+
+# Terraform files
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfplan
+
+# Backup files
+*.bak
+*.tmp
+
+# Local environment files
+*.local
+
+# .terraform directory
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+
+# IDE files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+    
